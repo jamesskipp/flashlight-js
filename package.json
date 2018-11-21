@@ -1,0 +1,21 @@
+{
+  "name": "flashlight-js",
+  "version": "0.2.0",
+  "description": "Turn the lights off",
+  "main": "flashlight.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javscript",
+    "fun",
+    "flashlight",
+    "dark"
+  ],
+  "author": "jskipp",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-uglify": "^4.0.0"
+  }
+}
