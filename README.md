@@ -6,7 +6,7 @@ A simple, just-for-fun utility that allows you to cloak your site in darkness an
 
 Load the script on your site's index.html page
 
-<script src="flashlight-js.min.js" type="text/javascript"></script>
+`<script src="flashlight-js.min.js"></script>`
 
 ## Using
 
